@@ -1,4 +1,4 @@
-# PNDS Blank
+# PNDS Beta 4 Acceptance Score
 
 This project is initialized. Read docs/implementation.md before project work. Implement the current user request; when assigned docs/creator-handoff.md, follow its entry point for all current tasks.
 

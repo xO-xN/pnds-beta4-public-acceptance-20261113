@@ -15,9 +15,9 @@
       "supercollider/synthdefs/pndsBlank.scsyndef"
     ]
   },
-  "description": "",
-  "id": "pnds-blank-template",
-  "name": "PNDS Blank",
+  "description": "Synthetic score for PNDS beta.4 release verification.",
+  "id": "pnds-beta-4-acceptance-score-ebc5113c57df32785571ce3d8da3efe6",
+  "name": "PNDS Beta 4 Acceptance Score",
   "schemaVersion": 2,
   "scoreServer": {
     "browserParticipation": 1,

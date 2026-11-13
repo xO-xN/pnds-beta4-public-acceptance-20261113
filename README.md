@@ -1,11 +1,11 @@
-# PNDS Blank
+# PNDS Beta 4 Acceptance Score
 
-title: PNDS Blank
-composer: 
+title: PNDS Beta 4 Acceptance Score
+composer: PNDS acceptance
 
 ## About the piece
 
-
+Synthetic score for PNDS beta.4 release verification.
 
 ---
 
